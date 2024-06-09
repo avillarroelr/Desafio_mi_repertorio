@@ -450,3 +450,59 @@ Completed: 200 message:  Time response: 2 ms Request ID: [b4be3ee9-639e-4a95-a1b
 Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:21:04 GMT-0400 (hora estándar de Chile)
   Parameters in body: {}
 Completed: 200 message:  Time response: 3 ms Request ID: [fc210f8f-cc2c-4828-a2e3-cfc8ad1f1bd1]
+
+Started GET / for :: ::1 at Sun Jun 09 2024 17:26:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [99e95f36-2ef0-4ef4-ae16-251ec038ca96]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:26:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [d12f14e1-1d81-4e90-82bb-fee645f33d9b]
+
+Started DELETE /canciones/7620 for :: ::1 at Sun Jun 09 2024 17:26:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [c495e3af-5953-453e-984b-ce741036fdb5]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:26:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2 ms Request ID: [d4d5172e-023e-4d36-ac95-17033627ae65]
+
+Started DELETE /canciones/3494 for :: ::1 at Sun Jun 09 2024 17:26:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 5 ms Request ID: [c97451cc-e51a-4e39-862e-e02dfaab74fa]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:26:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [eddd0d02-f7ed-48fa-ab50-95efdef770df]
+
+Started POST /canciones for :: ::1 at Sun Jun 09 2024 17:27:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":4645,"titulo":"Bailan sin cesar","artista":"31 Minutos","tono":"La "}
+Completed: 201 message:  Time response: 3 ms Request ID: [dc73450f-035e-4674-b5e2-d59409297ce8]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:27:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [d9a7094d-a380-4eea-8770-fcc69ae61456]
+
+Started POST /canciones for :: ::1 at Sun Jun 09 2024 17:27:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":7688,"titulo":"Super Mario World","artista":"Nintendo","tono":"Ni"}
+Completed: 201 message:  Time response: 3 ms Request ID: [bb0eb209-d5ae-42d6-897d-4bb5a48748b6]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:27:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [f6119af6-b8bc-4847-8609-e6559b93ef88]
+
+Started POST /canciones for :: ::1 at Sun Jun 09 2024 17:28:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":9982,"titulo":"Pedro Pedro Pe","artista":"Rafaela Carra","tono":"Rafa"}
+Completed: 201 message:  Time response: 2 ms Request ID: [06065215-718e-4b58-ae1d-7d7f6b6d939c]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:28:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [6e600d6c-3f73-48dc-887c-ba2b12d547c0]
+
+Started PUT /canciones/9982 for :: ::1 at Sun Jun 09 2024 17:28:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":"9982","titulo":"Pedro Pedro Pe","artista":"Rafaela Carra","tono":"La"}
+Completed: 200 message:  Time response: 4 ms Request ID: [0c94ff97-f14a-4e2d-a7c1-d959ee7313b0]
+
+Started GET /canciones for :: ::1 at Sun Jun 09 2024 17:28:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [53ec55c0-2dc3-45a7-aa99-6db2861e2c45]
