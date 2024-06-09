@@ -26,7 +26,7 @@ app.get('/canciones', (req, res) => {
         const repertorio = JSON.parse(fs.readFileSync('repertorio.json', 'utf8'));
         res.status(200).json(repertorio);
     } catch (error) {
-        res.status(500).json({ message: "RECURSO NO DISPONIBLE" });
+        res.status(500).json({ message: "Recurso no disponible!!!" });
     }
 });
 
